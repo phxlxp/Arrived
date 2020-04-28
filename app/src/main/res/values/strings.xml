@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name" translatable="false">Arrived</string>
+
+    <string name="privacy_statement_headline">Privacy Statement</string>
+    <string name="privacy_statement_last_change">Last change: 09th/08/2019</string>
+    <string name="privacy_statement" translatable="false">ARRIVED erhebt und speichert im Laufe der Nutzung verschiedene personenbezogene Daten. Diese werden großteilig intern verarbeitet jedoch in Teilen auch an Dritte weitergegeben.\n\nUm die Applikation in vollem Umfang nutzen zu können, muss der Nutzer ihr verschiedene Berechtigungen erteilen.\nBenötigte Berechtigungen:\n       Lesen und Verarbeiten von Kontaktdaten\n       Zugriff auf den Nutzerstandort\n       Senden von SMS\n\nBereits bei Start der Applikation werden im Hintergrund die auf dem Smartphone gespeicherten Kontakte ausgelesen und für die Dauer der Sitzung in der App gespeichert. Dies verfolgt den Zweck, weitere Ladezeiten möglichst gering zu halten. Erfasst werden Name, Telefonnummer(n) sowie die Kontakt-ID eines jeden Kontaktes.\n\nWährend der Auswahl eines Reiseziels greift ARRIVED auf Google Maps zu. Hierbei kommt es zur Datenübertragung. Google hat beispielsweise die Möglichkeit auf Ihre Standortdaten, Zielkoordinaten, IP- und Mac-Adresse sowie auf Ihr Nutzerverhalten zuzugreifen. Für genauere Informationen sehen Sie sich bitte die Datenschutzerklärung von Google an: https://policies.google.com/privacy\n\nDas von Ihnen gewählte Ziel wird für die Dauer der Sitzung sowie die Dauer des Hintergrundprozesses systemintern gespeichert. Gleiches gilt für die Adresse, welche den Koordinaten entspricht, die ausgewählten Kontakte und die zu versendende Nachricht.\n\nUm die GPS-Koordinaten des Reiseziels in eine lesbare Adresse umzuwandeln kommt es erneut zu einer Datenübertragung. Hierbei können unter anderem auch Ihre IP- und Ihre Mac-Adresse weitergegeben werden.\n\nDie Applikation bietet die Möglichkeit Textvorlagen zu speichern. Diese verbleiben auf dem Gerät und sind von außerhalb nicht einsehbar. Sie werden solange gespeichert bis der Nutzer sie löscht oder die App deinstalliert.\n\nIm Hintergrundprozess wird in regelmäßigen Abständen der Standort des Nutzers abgefragt und solange gespeichert bis aktuellere Daten vorliegen oder der Prozess beendet wird. Die Daten werden für interne Berechnungen in Kombination mit den Zielkoordinaten verwendet.\n\nBei erfolgreicher Ankunft am Zielort wird auf die gespeicherten Daten zugegriffen, um zu ermöglichen, dass die richtigen Kontakte die richtige Nachricht erhalten. Hierzu werden die Telefonnummern sowie die Nachricht an einen systeminternen SMS-Manager übergeben.\n\nAlle gespeicherten Daten können weiterhin zur Visualisierung genutzt werden.\n\nGewählte Ziele, Kontakte und Nachrichten können jederzeit geändert oder gelöscht werden.\n\nARRIVED wird Ihnen von einer Privatperson zur Verfügung gestellt und gehört keiner Firma an.\n\nWährend der Nutzung wird von ARRIVED kein Nutzerverhalten aufgezeichnet. Getätigte Reisen werden nicht aufgezeichnet und somit auch an niemanden übertragen. Das Team hinter ARRIVED hat keinen Zugriff auf Ihre persönlichen Daten.\n\n\nAnschrift:\n\n   Philip Mayer\n   Rudolf-Breitscheid-Straße 2\n   06556 Artern</string>
+    <string name="privacy_statement_checkbox">I read the privacy statement and accept it.</string>
+    <string name="privacy_statement_toast">You have to tick the checkbox to continue!</string>
+    <string name="privacy_policy_button">Continue</string>
+
+    //Manufacturer-Dialog
+    <string name="manufacturer_dialog_positive_button">Open Settings</string>
+    <string name="manufacturer_dialog_negative_button">Cancel</string>
+    <string name="manufacturer_dialog_huawei">It looks like you use a Huawei device!\nWe need your help to make sure that ARRIVED will work properly on your phone.\n\nGo to <b>*Settings > Battery*</b> and click on <b>*App launch*</b>. Disable the <b>*Manage automatically*</b> option of ARRIVED and make sure that all of the three options under <b>*Manage manually*</b> are enabled.\n\nThis way you stop Huawei from closing ARRIVEDs background services. Those are needed to continuously update your location and check whether you have arrived at your destination.\n\nIf there is no such option the app should work fine.</string>
+    <string name="manufacturer_dialog_samsung">It looks like you use a Samsung device!\nWe need your help to make sure that ARRIVED will work properly on your phone.\n\nGo to <b>*Settings > Device maintenance > Battery > Battery usage*</b> and make sure that <b>*Background activity*</b> is allowed. Find ARRIVED under <b>*Settings > Device maintenance > Battery*</b> and make sure that the <b>*Put app to sleep*-option</b> is disabled.\n\nThis way you stop Samsung from closing ARRIVEDs background services. Those are needed to continuously update your location and check whether you have arrived at your destination.\n\nIf there is no such option the app should work fine.</string>
+    <string name="manufacturer_dialog_honor">It looks like you use a Honor device!\nWe need your help to make sure that ARRIVED will work properly on your phone.\n\nGo to <b>*Settings > Battery*</b> and click on <b>*App launch*</b>. Disable the <b>*Manage automatically*</b> option of ARRIVED and make sure that all of the three options under <b>*Manage manually*</b> are enabled.\n\nThis way you stop Honor from closing ARRIVEDs background services. Those are needed to continuously update your location and check whether you have arrived at your destination.\n\nIf there is no such option, the app should work fine.</string>
+    <string name="manufacturer_dialog_other">It is possible that ARRIVED is not working properly on your phone. Please check your <b>*Battery settings*</b> and make sure that nothing closes ARRIVEDs background services. If you have problems please contact us!</string>
+
+    //Cancel-Dialog
+    <string name="cancel_dialog_question">Are you sure you want to cancel your journey?</string>
+    <string name="cancel_dialog_positive_button">Yes!</string>
+    <string name="cancel_dialog_negative_button">No!</string>
+
+    //SMS-WARNING-DIALOG
+    <string name="sms_warning_dialog_text">Sending SMS can create costs. For more detailed information contact your mobile service provider.</string>
+    <string name="sms_warning_dialog_understood">Understood</string>
+    <string name="sms_warning_dialog_checkbox">Never show again</string>
+
+    //MAIN-ACTIVITY
+    <string name="main_activity_button_set_destination">Set a destination</string>
+    <string name="main_activity_button_show_contacts">Show all contacts</string>
+    <string name="main_activity_button_load_template">Load template</string>
+    <string name="main_activity_button_save_template">Save as template</string>
+    <string name="main_activity_journey">Start the journey</string>
+    <string name="toast_contact_removed">Contact removed!</string>
+    <string name="you_haven_t_set_a_destination_yet">You haven\'t set a destination yet!</string>
+    <string name="you_haven_t_selected_any_contacts_yet">You haven\'t selected any contacts yet!</string>
+    <string name="you_haven_t_entered_a_message_yet">You haven\'t entered a message yet!</string>
+    <string name="template_saved_message">Saved!</string>
+    <string name="unknown_destination">Unknown destination</string>
+
+    //JOURNEY
+    <string name="journey_has_started">Your journey has started!</string>
+    <string name="your_destination">Your destination:</string>
+    <string name="your_message">Your message:</string>
+    <string name="your_contacts">Your contacts:</string>
+    <string name="cancel">Cancel</string>
+    <string name="messages_will_be_sent">Your message will be sent to your selected contacts as soon as you arrive at your destination.</string>
+
+
+    //OTHER
+    <string name="finished">Finished</string>
+    <string name="template_deleted_message">Deleted!</string>
+    <string name="select_contact_true_message">Added!</string>
+    <string name="select_contact_false_message">Already added!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="arrived_at_destination">You have arrived at your destination!</string>
+    <string name="close">Close</string>
+    <string name="return_to_start">Return to the startpage</string>
+
+</resources>
+

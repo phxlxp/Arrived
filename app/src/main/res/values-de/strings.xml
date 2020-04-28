@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manufacturer_dialog_huawei">Sie benutzen ein Smartphone der Firma Huawei!\nWir benötigen kurz Ihre Hilfe, um die korrekte Funktionsweise unserer App sicherzustellen.\n\nÖffnen Sie <b>*Einstellungen > Akku*</b> und klicken Sie auf <b>*App-Start*</b>. Deaktivieren Sie die <b>*Automatisch verwalten*-Option</b> bei der App ARRIVED. Stellen Sie sicher, dass alle drei Menüpunkte unter <b>*Manuell verwalten*</b> aktiviert sind.\n\nDurch die von Ihnen vorgenommenen Änderungen hindern Sie Huawei daran ARRIVEDs Hintergrundaktivitäten zu schließen. Ohne die Hintergrundaktivitäten ist das ständige Überprüfen des Nutzerstandortes nicht möglich.\n\nExistiert ein solcher Menüpunkt nicht, so sollte die App einwandfrei funktionieren.</string>
+    <string name="manufacturer_dialog_samsung">Sie benutzen ein Smartphone der Firma Honor!\nWir benötigen kurz Ihre Hilfe, um die korrekte Funktionsweise unserer App sicherzustellen.\n\nÖffnen Sie <b>*Einstellungen > Gerätewartung > Akku > Akkuverbrauch*</b> und vergewissern Sie sich, dass <b>*Hintergrundaktivitäten zulassen*</b> für ARRIVED aktiviert ist. Finden Sie ARRIVED unter <b>*Einstellungen > Gerätewartung > Akku*</b> und sehen Sie nach, ob die <b>Schlaffunktion</b> deaktiviert ist.\n\nDurch die von Ihnen vorgenommenen Änderungen hindern Sie Samsung daran ARRIVEDs Hintergrundaktivitäten zu schließen. Ohne die Hintergrundaktivitäten ist das ständige Überprüfen des Nutzerstandortes nicht möglich.\n\nExistiert ein solcher Menüpunkt nicht, so sollte die App einwandfrei funktionieren.</string>
+    <string name="manufacturer_dialog_honor">Sie benutzen ein Smartphone der Firma Honor!\nWir benötigen kurz Ihre Hilfe, um die korrekte Funktionsweise unserer App sicherzustellen.\n\nÖffnen Sie <b>*Einstellungen > Akku*</b> und klicken Sie auf <b>*App-Start*</b>. Deaktivieren Sie die <b>*Automatisch verwalten*-Option</b> bei der App ARRIVED. Stellen Sie sicher, dass alle drei Menüpunkte unter <b>*Manuell verwalten*</b> aktiviert sind.\n\nDurch die von Ihnen vorgenommenen Änderungen hindern Sie Honor daran ARRIVEDs Hintergrundaktivitäten zu schließen. Ohne die Hintergrundaktivitäten ist das ständige Überprüfen des Nutzerstandortes nicht möglich.\n\nExistiert ein solcher Menüpunkt nicht, so sollte die App einwandfrei funktionieren.</string>
+    <string name="manufacturer_dialog_other">Es ist möglich, dass ARRIVED auf Ihrem Smartphone nicht richtig funktioniert. Bitte Überprüfen sie Ihre *Akkueinstellungen* und stellen sie sicher, dass ARRIVEDs Hintergundprozesse nicht behindert werden. Sollten Sie hierbei Probleme haben, kontaktieren Sie uns bitte!</string>
+
+    <string name="main_activity_button_load_template">Vorlage öffnen</string>
+    <string name="main_activity_button_save_template">Als Vorlage speichern</string>
+    <string name="main_activity_button_set_destination">Ziel wählen</string>
+    <string name="main_activity_button_show_contacts">Kontakte anzeigen</string>
+    <string name="main_activity_journey">Reise beginnen</string>
+    <string name="you_haven_t_selected_any_contacts_yet">Es wurden keine Kontakte ausgewählt!</string>
+    <string name="you_haven_t_set_a_destination_yet">Es wurde kein Ziel ausgewählt!</string>
+    <string name="finished">Fertig</string>
+    <string name="template_saved_message">Vorlage wurde gespeichert!</string>
+    <string name="template_deleted_message">Vorlage wurde entfernt!</string>
+    <string name="select_contact_false_message">Bereits ausgewählt!</string>
+    <string name="select_contact_true_message">Hinzugefügt!</string>
+    <string name="toast_contact_removed">Kontakt wurde entfernt!</string>
+    <string name="title_activity_maps">Karte</string>
+    <string name="unknown_destination">Unbekanntes Ziel</string>
+    <string name="you_haven_t_entered_a_message_yet">Es wurde keine Nachricht verfasst!</string>
+    <string name="journey_has_started">Die Reise hat begonnen!</string>
+    <string name="your_message">Nachricht:</string>
+    <string name="your_contacts">Kontakte:</string>
+    <string name="your_destination">Ziel:</string>
+    <string name="cancel">Abbruch</string>
+    <string name="messages_will_be_sent">Bei Ankunft am Zielort wird die verfasste Nachricht an alle ausgewählten Kontakte versendet.</string>
+    <string name="arrived_at_destination">Sie haben Ihr Ziel erreicht!</string>
+    <string name="close">Schließen</string>
+    <string name="return_to_start">Zur Startseite zurückkehren</string>
+    <string name="manufacturer_dialog_negative_button">Abbrechen</string>
+    <string name="manufacturer_dialog_positive_button">Einstellungen öffnen</string>
+    <string name="cancel_dialog_negative_button">Nein!</string>
+    <string name="cancel_dialog_positive_button">Ja!</string>
+    <string name="cancel_dialog_question">Sind Sie sicher, dass Sie Ihre Reise beenden wollen?</string>
+    <string name="sms_warning_dialog_understood">Verstanden</string>
+    <string name="sms_warning_dialog_text">Das Versenden von SMS kann Kosten mit sich führen. Genauere Informationen erhalten Sie von Ihrem Mobilfunkanbieter.</string>
+    <string name="privacy_statement_checkbox">Ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.</string>
+    <string name="privacy_statement_headline">Datenschutzerklärung</string>
+    <string name="privacy_statement_last_change">Letzte Änderung: 09.08.2019</string>
+    <string name="privacy_statement_toast">Um Fortzufahren müssen sie das Kästchen ausfüllen!</string>
+    <string name="sms_warning_dialog_checkbox">Nicht wieder anzeigen</string>
+    <string name="privacy_policy_button">Weiter</string>
+</resources>

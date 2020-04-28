@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="manufacturer_dialog_huawei">We need your help to make sure that ARRIVED will work properly on your phone.</string>
+    <string name="manufacturer_dialog_honor">It looks like you use a Honor device!</string>
+
+    <string name="main_activity_button_load_template">Load template</string>
+    <string name="main_activity_button_save_template">Save as template</string>
+    <string name="main_activity_journey">Start the journey</string>
+    <string name="main_activity_button_set_destination">Set a destination</string>
+    <string name="you_haven_t_set_a_destination_yet">You haven\'t set a destination yet!</string>
+    <string name="main_activity_button_show_contacts">Show all contacts</string>
+    <string name="finished">Finished</string>
+    <string name="template_saved_message">Saved!</string>
+    <string name="template_deleted_message">Deleted!</string>
+    <string name="select_contact_false_message">Already added!</string>
+    <string name="select_contact_true_message">Added!</string>
+    <string name="toast_contact_removed">Contact removed!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="unknown_destination">Unknown destination</string>
+    <string name="you_haven_t_selected_any_contacts_yet">You haven\'t selected any contacts yet!</string>
+    <string name="you_haven_t_entered_a_message_yet">You haven\'t entered a message yet!</string>
+    <string name="journey_has_started">Your journey has started!</string>
+    <string name="your_message">Your message:</string>
+    <string name="your_contacts">Your contacts:</string>
+    <string name="your_destination">Your destination:</string>
+    <string name="cancel">Cancel</string>
+    <string name="arrived_at_destination">You have arrived at your destination!</string>
+    <string name="close">Close</string>
+    <string name="return_to_start">Return to the startpage</string>
+    <string name="cancel_dialog_negative_button">No!</string>
+    <string name="cancel_dialog_positive_button">Yes!</string>
+    <string name="cancel_dialog_question">Are you sure you want to cancel your journey?</string>
+    <string name="sms_warning_dialog_text">Sending SMS can create costs. For more detailed information contact your mobile service provider.</string>
+    <string name="sms_warning_dialog_understood">Understood</string>
+    <string name="privacy_statement_headline">This way you stop Samsung from closing ARRIVEDs background services. Those are needed to continuously update your location and check whether you have arrived at your destination.</string>
+    <string name="privacy_statement_toast">If there is no such option the app should work fine.</string>
+    <string name="sms_warning_dialog_checkbox">Never show again</string>
+    <string name="privacy_statement" translatable="false">Go to <b>*Settings > Device maintenance > Battery > Battery usage*</b> and make sure that <b>*Background activity*</b> is allowed. Find ARRIVED under <b>*Settings > Device maintenance > Battery*</b> and make sure that the <b>*Put app to sleep*-option</b> is disabled.</string>
+    <string name="manufacturer_dialog_other">It is possible that ARRIVED is not working properly on your phone. Please check your <b>*Battery settings*</b> and make sure that nothing closes ARRIVEDs background services. If you have problems please contact us!</string>
+    <string name="manufacturer_dialog_samsung">It looks like you use a Samsung device!</string>
+    <string name="messages_will_be_sent">We need your help to make sure that ARRIVED will work properly on your phone.</string>
+</resources>
